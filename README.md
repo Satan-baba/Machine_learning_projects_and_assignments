@@ -6,3 +6,5 @@ Some of my data science machine learning projects Include:
 4) Assignment to understand data and diagnose cancer
 5) Predicting the probablity of an employee recieving managerial salary and predicting new connections in a network of emails between employees at a workplace using networkx
 6) Analysing text messages and applying machine learning model to detect spam messages
+
+Plese use https://nbviewer.jupyter.org if ipynb is not displayed on github. Put the URL link of the ipynb on https://nbviewer.jupyter.org to view the python notebook
